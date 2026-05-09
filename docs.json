@@ -40,7 +40,8 @@
             "group": "Getting started",
             "pages": [
               "welcome"
-            ]
+            ],
+            "icon": "sparkles"
           },
           {
             "group": "Network changelogs",
@@ -79,7 +80,8 @@
                   "blacklists"
                 ]
               }
-            ]
+            ],
+            "icon": "ellipsis"
           },
           "untitled-page"
         ]
