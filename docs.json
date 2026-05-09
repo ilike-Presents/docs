@@ -1,0 +1,136 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "ilike Presents Information Hub",
+  "colors": {
+    "primary": "#00a8ff",
+    "light": "#5bc8ff",
+    "dark": "#008bd0"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Website",
+          "icon": "globe",
+          "color": {
+            "light": "#00a8ff",
+            "dark": "#00a8ff"
+          },
+          "href": "https://ilike-shop.fourthwall.com/"
+        },
+        {
+          "anchor": "Status",
+          "icon": "chart-simple",
+          "color": {
+            "light": "#00a8ff",
+            "dark": "#00a8ff"
+          },
+          "href": "https://statuspage.incident.io/ilikepresents"
+        }
+      ]
+    },
+    "tabs": [
+      {
+        "tab": "Hub",
+        "icon": "circle-info",
+        "pages": [
+          {
+            "group": "Getting started",
+            "pages": [
+              "welcome"
+            ]
+          },
+          {
+            "group": "Network changelogs",
+            "icon": "scroll",
+            "pages": [
+              "website",
+              {
+                "group": "Roblox",
+                "icon": "gamepad-modern",
+                "pages": [
+                  "ilikes-hub",
+                  "ilikes-studio",
+                  "ilikes-event-place-v2"
+                ]
+              },
+              "ilike-radio"
+            ]
+          },
+          {
+            "group": "More",
+            "pages": [
+              {
+                "group": "ilikeNews",
+                "icon": "newspaper",
+                "pages": [
+                  "ilikenews-statements"
+                ]
+              },
+              "ilikewx",
+              {
+                "group": "ilike Presents",
+                "icon": "newspaper",
+                "pages": [
+                  "subsidiaries",
+                  "statements",
+                  "blacklists"
+                ]
+              }
+            ]
+          },
+          "untitled-page"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/images/ilikepresents-lightmode.png",
+    "dark": "/images/ilikepresents-darkmode.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:ilikepresents@proton.me"
+      }
+    ]
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "appearance": {
+    "strict": false,
+    "default": "dark"
+  },
+  "errors": {
+    "404": {
+      "title": "Page not found",
+      "description": "The page you are looking for does not exist."
+    }
+  },
+  "banner": {
+    "content": "This is our brand new ilike Presents information hub, powered by Mintlify!",
+    "dismissible": true
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/ilike-Presents",
+      "x": "https://x.com/ilikePresentsX",
+      "discord": "https://dsc.gg/ilikepresents",
+      "youtube": "https://www.youtube.com/@ilikePresents",
+      "website": "https://ilike-shop.fourthwall.com/"
+    }
+  }
+}
