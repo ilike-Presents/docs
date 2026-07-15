@@ -58,7 +58,8 @@
                 ]
               },
               "ilike-radio"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "More",
@@ -81,10 +82,10 @@
                 ]
               }
             ],
-            "icon": "ellipsis"
+            "icon": "ellipsis",
+            "hidden": true
           }
-        ],
-        "hidden": true
+        ]
       }
     ]
   },
