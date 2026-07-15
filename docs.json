@@ -83,7 +83,8 @@
             ],
             "icon": "ellipsis"
           }
-        ]
+        ],
+        "hidden": true
       }
     ]
   },
