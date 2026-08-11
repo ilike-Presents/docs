@@ -12,13 +12,23 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Website",
+          "anchor": "Main website",
           "icon": "globe",
           "color": {
             "light": "#00a8ff",
             "dark": "#00a8ff"
           },
           "href": "https://ilike-shop.fourthwall.com/"
+        },
+        {
+          "anchor": "ilikeNews website",
+          "icon": "newspaper",
+          "href": "https://ilikenews.netlify.app/"
+        },
+        {
+          "anchor": "Archival website",
+          "icon": "archive",
+          "href": "https://ilike-presents-archives.netlify.app/"
         },
         {
           "anchor": "Status",
