@@ -39,7 +39,7 @@
           }
         },
         {
-          "anchor": "Services status",
+          "anchor": "Status",
           "icon": "chart-simple",
           "color": {
             "light": "#00a8ff",
