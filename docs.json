@@ -23,15 +23,23 @@
         {
           "anchor": "ilikeNews website",
           "icon": "newspaper",
-          "href": "https://ilikenews.netlify.app/"
+          "href": "https://ilikenews.netlify.app/",
+          "color": {
+            "light": "#00a8ff",
+            "dark": "#00a8ff"
+          }
         },
         {
           "anchor": "Archival website",
           "icon": "archive",
-          "href": "https://ilike-presents-archives.netlify.app/"
+          "href": "https://ilike-presents-archives.netlify.app/",
+          "color": {
+            "light": "#00a8ff",
+            "dark": "#00a8ff"
+          }
         },
         {
-          "anchor": "Status",
+          "anchor": "Services status",
           "icon": "chart-simple",
           "color": {
             "light": "#00a8ff",
@@ -43,7 +51,7 @@
     },
     "tabs": [
       {
-        "tab": "Hub",
+        "tab": "Hub [Coming soon]",
         "icon": "circle-info",
         "pages": [
           {
