@@ -66,6 +66,8 @@
             "icon": "scroll",
             "pages": [
               "website",
+              "website-2-2-2",
+              "website-2-2",
               {
                 "group": "Roblox",
                 "icon": "gamepad-modern",
