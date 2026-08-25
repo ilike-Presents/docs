@@ -78,8 +78,7 @@
                 ]
               },
               "ilike-radio"
-            ],
-            "hidden": true
+            ]
           },
           {
             "group": "More",
@@ -102,8 +101,7 @@
                 ]
               }
             ],
-            "icon": "ellipsis",
-            "hidden": true
+            "icon": "ellipsis"
           }
         ]
       }
