@@ -68,16 +68,22 @@
               "website",
               "ilikenews-website",
               "archival-website",
+              "ilike-radio",
               {
-                "group": "Roblox",
-                "icon": "gamepad-modern",
+                "group": "Archive",
+                "icon": "archive",
                 "pages": [
-                  "ilikes-hub",
-                  "ilikes-studio",
-                  "ilikes-event-place-v2"
+                  {
+                    "group": "Roblox",
+                    "icon": "gamepad-modern",
+                    "pages": [
+                      "ilikes-hub",
+                      "ilikes-studio",
+                      "ilikes-event-place-v2"
+                    ]
+                  }
                 ]
-              },
-              "ilike-radio"
+              }
             ],
             "hidden": true
           },
